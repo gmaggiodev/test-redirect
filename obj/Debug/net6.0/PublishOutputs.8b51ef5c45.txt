@@ -1,0 +1,7 @@
+D:\repos\test-redirect\bin\Debug\net6.0\publish\test-redirect.exe
+D:\repos\test-redirect\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\repos\test-redirect\bin\Debug\net6.0\publish\appsettings.json
+D:\repos\test-redirect\bin\Debug\net6.0\publish\test-redirect.dll
+D:\repos\test-redirect\bin\Debug\net6.0\publish\test-redirect.deps.json
+D:\repos\test-redirect\bin\Debug\net6.0\publish\test-redirect.runtimeconfig.json
+D:\repos\test-redirect\bin\Debug\net6.0\publish\test-redirect.pdb
